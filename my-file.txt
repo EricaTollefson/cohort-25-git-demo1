@@ -1,3 +1,4 @@
 My test file for bootcamp.
 
 adding stuff
+Git branching is new and confusing.
